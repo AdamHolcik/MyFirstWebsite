@@ -1,0 +1,16 @@
+body {
+    font-family: "Tahoma";
+    color: blue;
+    background-color: #ddddff;
+    }
+
+h1{
+    color: aquamarine;
+    text-align: center;
+    font-size: 3.0em;
+}
+
+h2{
+    color: deeppink;
+    text-align: left;
+}
